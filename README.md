@@ -1,9 +1,9 @@
 # someRepository
 
--<table>
--  <tr>
--    <th>Environment</th>
--    <th>Docs</th>
--    <th>Developer Portal</th>
--    <th>AKA</th>
--  </tr>
+<table>
+  <tr>
+    <th>Server</th>
+    <th>URL</th> 
+    <th>DNS Name</th>
+    <th>Comments</th>
+  </tr>
